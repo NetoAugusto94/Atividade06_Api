@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\netoa\\Desktop\\Desenvolvimento API\\ATIVIDADE-04\\Exo.WebApi\\Exo.WebApi.csproj": {}
+    "C:\\Users\\netoa\\Desktop\\Desenvolvimento API\\ATIVIDADE-05\\Exo.WebApi\\Exo.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\netoa\\Desktop\\Desenvolvimento API\\ATIVIDADE-04\\Exo.WebApi\\Exo.WebApi.csproj": {
+    "C:\\Users\\netoa\\Desktop\\Desenvolvimento API\\ATIVIDADE-05\\Exo.WebApi\\Exo.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\netoa\\Desktop\\Desenvolvimento API\\ATIVIDADE-04\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\netoa\\Desktop\\Desenvolvimento API\\ATIVIDADE-05\\Exo.WebApi\\Exo.WebApi.csproj",
         "projectName": "Exo.WebApi",
-        "projectPath": "C:\\Users\\netoa\\Desktop\\Desenvolvimento API\\ATIVIDADE-04\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectPath": "C:\\Users\\netoa\\Desktop\\Desenvolvimento API\\ATIVIDADE-05\\Exo.WebApi\\Exo.WebApi.csproj",
         "packagesPath": "C:\\Users\\netoa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\netoa\\Desktop\\Desenvolvimento API\\ATIVIDADE-04\\Exo.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\netoa\\Desktop\\Desenvolvimento API\\ATIVIDADE-05\\Exo.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\netoa\\AppData\\Roaming\\NuGet\\NuGet.Config"

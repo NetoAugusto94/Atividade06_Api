@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8+NG6wy7XlEL2Yrvi+OoQLkKw0EwUsnctpCVn5xdyhUqrYlXBlsmKYp2rFyB0l2ydwrNuzA1IMDvjjXPAPxlXA==",
+  "dgSpecHash": "qS6Y5ODvGVyKseXYiQ/Bgkb9OilbXk637Mu9/t2n+3UXOjYyUBRJxeOoITo7zXyUEkrDW/d+6DQSxdEQKBwNjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\netoa\\Desktop\\Desenvolvimento API\\ATIVIDADE-05\\Exo.WebApi\\Exo.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\netoa\\Desktop\\Desenvolvimento API\\ATIVIDADE-06\\Exo.WebApi\\Exo.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\netoa\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\netoa\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
